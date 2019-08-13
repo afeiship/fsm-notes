@@ -1,0 +1,12 @@
+{
+  "name": "fsm-notes",
+  "version": "1.0.0",
+  "description": "Finite state machine notes.",
+  "homepage": "https://github.com/afeiship/fsm-notes",
+  "author": {
+    "name": "afei",
+    "email": "1290657123@qq.com"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
