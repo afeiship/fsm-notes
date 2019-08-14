@@ -20,9 +20,11 @@ var fsm = new StateMachine({
     },
     onCondense: function() {
       console.log("I condensed");
+    },
+    onTransition: function(e) {
+      console.log("transition", e);
     }
   }
 });
-
 
 fsm.melt();
